@@ -1,0 +1,6 @@
+rootProject.name = 'spring-cloud-open-feign-demo'
+enableFeaturePreview('IMPROVED_POM_SUPPORT')
+include 'demo-service-api'
+include 'demo-service'
+include 'demo-consumer'
+
